@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Margherita",
-    "img": "margherita.jpg",
+    "img": "https://www.tasteofhome.com/wp-content/uploads/2024/03/Margherita-Pizza-_EXPS_TOHVP24_275515_MF_02_28_1.jpg",
     "price": 8.99,
     "description": "Classic pizza topped with tomato sauce, mozzarella, and basil leaves.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, basil",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Pepperoni",
-    "img": "pepperoni.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZhKpB7t4b4-zSCoIQy4g6aanslxpcIWpNxMdk8I_1M6XoXV05_H_nn9KR&s=10",
     "price": 10.99,
     "description": "A timeless favorite featuring spicy pepperoni slices and gooey cheese.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, pepperoni",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Quattro Stagioni",
-    "img": "quattro_stagioni.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREczh__88EBXj5_lUCQUKwC4jkwSaJEiGRAg2d-aH0FM9KpOVZsqN-NOiv&s=10",
     "price": 12.99,
     "description": "Four seasons pizza with sections of artichokes, ham, mushrooms, and olives.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, artichokes, ham, mushrooms, olives",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Capricciosa",
-    "img": "capricciosa.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5L5KteIiTMs6AXvNI2ZbNG_W-im5aa5nTr6DlBdMZnd8cFjQ5VTJ1sl6&s=10",
     "price": 11.99,
     "description": "A delightful combination of ham, mushrooms, artichokes, and olives.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, ham, mushrooms, artichokes, olives",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "Quattro Formaggi",
-    "img": "quattro_formaggi.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgjTGtugqWjZK32FeUehoM_XW6dGN0WVDO_lJ9lXA2_A&s=10",
     "price": 13.99,
     "description": "Four cheese pizza topped with a blend of mozzarella, gorgonzola, parmesan, and provolone.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, gorgonzola cheese, parmesan cheese, provolone cheese",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "name": "Hawaiian",
-    "img": "hawaiian.jpg",
+    "img": "https://outgrilling.com/wp-content/uploads/2024/02/Easy-Hawaiian-Pizza-Recipe-Image-F.jpg",
     "price": 10.99,
     "description": "Tropical pizza with ham, pineapple, and mozzarella cheese.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, ham, pineapple",
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "name": "Vegetarian",
-    "img": "vegetarian.jpg",
+    "img": "https://www.tasteofhome.com/wp-content/uploads/2025/06/Grilled-Veggie-Pizza_EXPS_FT25_48960_AC_0611_1.jpg",
     "price": 9.99,
     "description": "Fresh and flavorful pizza loaded with assorted vegetables like bell peppers, onions, mushrooms, and olives.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, bell peppers, onions, mushrooms, olives",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "name": "Meat Lovers",
-    "img": "meat_lovers.jpg",
+    "img": "https://www.queensleeappetit.com/wp-content/uploads/2019/02/Meat-Lovers-Pizza-5-1.jpg",
     "price": 12.99,
     "description": "For those who love meat! Topped with pepperoni, sausage, bacon, and ham.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, pepperoni, sausage, bacon, ham",
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "name": "BBQ Chicken",
-    "img": "bbq_chicken.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzESR9BYQ6NNHV9XiYdZMKpOfNwInePlZbaj2XYaPKUhfXMJATN972F1fR&s=10",
     "price": 11.99,
     "description": "Savory pizza featuring barbecue sauce, grilled chicken, onions, and cilantro.",
     "list_of_ingredients": "Barbecue sauce, mozzarella cheese, grilled chicken, onions, cilantro",
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "name": "Mushroom",
-    "img": "mushroom.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7GOLyBptKxqCbQSKQjItSXRJs1j4CEiIn55vfMUBujdHSHJbc_nC7aC4&s=10",
     "price": 9.99,
     "description": "Simple yet delicious pizza topped with fresh mushrooms and mozzarella cheese.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, mushrooms",
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "name": "Buffalo Chicken",
-    "img": "buffalo_chicken.jpg",
+    "img": "https://hips.hearstapps.com/hmg-prod/images/190226-buffalo-chicken-pizza-370-1552084943.jpg?crop=0.670xw:0.998xh;0.208xw,0.00240xh&resize=1200:*",
     "price": 11.99,
     "description": "Spicy chicken pizza with buffalo sauce, blue cheese, and red onions.",
     "list_of_ingredients": "Buffalo sauce, mozzarella cheese, grilled chicken, blue cheese, red onions",
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "name": "Supreme",
-    "img": "supreme.jpg",
+    "img": "https://anaffairfromtheheart.com/wp-content/uploads/2022/10/Supreme-Pizza-6-591x800.jpg",
     "price": 12.99,
     "description": "The ultimate pizza loaded with pepperoni, sausage, bell peppers, onions, and olives.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, pepperoni, sausage, bell peppers, onions, olives",
@@ -122,7 +122,7 @@
   {
     "id": 13,
     "name": "BBQ Bacon Cheeseburger",
-    "img": "bbq_bacon_cheeseburger.jpg",
+    "img": "https://www.tasteofhome.com/wp-content/uploads/2025/09/Bacon-Cheeseburger-Pizza-TOHD25_9866_JonathanMelendez_05_FT.jpg",
     "price": 13.99,
     "description": "All the flavors of a cheeseburger on a pizza! Topped with barbecue sauce, ground beef, bacon, onions, and cheddar cheese.",
     "list_of_ingredients": "Barbecue sauce, mozzarella cheese, ground beef, bacon, onions, cheddar cheese",
@@ -132,7 +132,7 @@
   {
     "id": 14,
     "name": "Chicken Alfredo",
-    "img": "chicken_alfredo.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAoV0Ma1WtpblVrAR_npOdo5MlOtdf2azwcD_O9olOuAhmLxkPtMOFXZ_o&s=10",
     "price": 12.99,
     "description": "Creamy Alfredo sauce, grilled chicken, and spinach atop a delicious pizza crust.",
     "list_of_ingredients": "Alfredo sauce, mozzarella cheese, grilled chicken, spinach",
@@ -142,7 +142,7 @@
   {
     "id": 15,
     "name": "White Pizza",
-    "img": "white_pizza.jpg",
+    "img": "https://www.seriouseats.com/thmb/hZsJPawxuSMs3grfINDsa4iK9h0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230518-SEA-WhiteNYPizza-GregDupree-06-ab501bf6a8f44d238d6a2336a800b219.jpg",
     "price": 11.99,
     "description": "Simple yet elegant pizza with a garlic and olive oil base, topped with ricotta, mozzarella, and spinach.",
     "list_of_ingredients": "Garlic olive oil base, mozzarella cheese, ricotta cheese, spinach",
@@ -152,7 +152,7 @@
   {
     "id": 16,
     "name": "Sicilian",
-    "img": "sicilian.jpg",
+    "img": "https://www.realsimple.com/thmb/TRWF9nZ1I48Nxd2QMzfDVMUZjtg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sicilian-Pizza-with-Shave-Delicata-Salami-Pecorino-Recipe-7825d3b570bc40929e57ef287050c741.jpg",
     "price": 14.99,
     "description": "Thick-crust square pizza with tomato sauce, mozzarella cheese, and a sprinkle of parmesan.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, parmesan cheese",
@@ -162,7 +162,7 @@
   {
     "id": 17,
     "name": "Spinach and Feta",
-    "img": "spinach_feta.jpg",
+    "img": "https://wp.cookitrealgood.com/wp-content/uploads/2020/06/spinachfetapizza4.jpg",
     "price": 10.99,
     "description": "Healthy and delicious pizza featuring spinach, feta cheese, and black olives.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, spinach, feta cheese, black olives",
@@ -172,7 +172,7 @@
   {
     "id": 18,
     "name": "Garlic Lover's",
-    "img": "garlic_lovers.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKVOBEq02QrdWUfolWUjRWbqY51BFoqxuThvtmAx5gQ5oVUGOT2E1CU9j_&s=10",
     "price": 10.99,
     "description": "For garlic enthusiasts! Topped with roasted garlic, mozzarella cheese, and a sprinkle of parmesan.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, roasted garlic, parmesan cheese",
@@ -182,7 +182,7 @@
   {
     "id": 19,
     "name": "Buffalo Cauliflower",
-    "img": "buffalo_cauliflower.jpg",
+    "img": "https://www.crowdedkitchen.com/wp-content/uploads/2020/08/buffalo-cauliflower-pizza.jpg",
     "price": 11.99,
     "description": "A vegetarian twist on buffalo chicken pizza with spicy buffalo cauliflower, blue cheese, and red onions.",
     "list_of_ingredients": "Buffalo cauliflower, mozzarella cheese, blue cheese, red onions",
@@ -192,7 +192,7 @@
   {
     "id": 20,
     "name": "Pesto",
-    "img": "pesto.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStomDmojjDiE51Xq2TZgPsqP-wbp0tt5R3BH3z8ZkxslTqzMrbunWCX7o&s=10",
     "price": 11.99,
     "description": "Fresh and flavorful pizza with a basil pesto base, topped with cherry tomatoes, mozzarella, and pine nuts.",
     "list_of_ingredients": "Basil pesto base, mozzarella cheese, cherry tomatoes, pine nuts",
@@ -202,7 +202,7 @@
   {
     "id": 21,
     "name": "Barbecue Pork",
-    "img": "barbecue_pork.jpg",
+    "img": "https://familyspice.com/wp-content/uploads/2025/01/pulled-pork-pizza31-1200.jpg",
     "price": 12.99,
     "description": "Sweet and savory pizza with barbecue sauce, pulled pork, red onions, and cilantro.",
     "list_of_ingredients": "Barbecue sauce, mozzarella cheese, pulled pork, red onions, cilantro",
@@ -212,7 +212,7 @@
   {
     "id": 22,
     "name": "Artichoke",
-    "img": "artichoke.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8I5mddxyn4L2NzQag6_vCsQVfIX9dG8ENi92h8nSwEXfg1O7dt_YHZfIS&s=10",
     "price": 11.99,
     "description": "Delicious pizza topped with marinated artichoke hearts, black olives, and mozzarella cheese.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, marinated artichoke hearts, black olives",
@@ -222,7 +222,7 @@
   {
     "id": 23,
     "name": "Truffle Mushroom",
-    "img": "truffle_mushroom.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm64RwjGjB2Lp52FZw6q5Q9hDz_LyANb4UQWxfbCB5536MWxSWNTSAwuo&s=10",
     "price": 14.99,
     "description": "Decadent pizza featuring truffle oil, mushrooms, caramelized onions, and fontina cheese.",
     "list_of_ingredients": "Truffle oil, mozzarella cheese, mushrooms, caramelized onions, fontina cheese",
@@ -232,7 +232,7 @@
   {
     "id": 24,
     "name": "Prosciutto and Arugula",
-    "img": "prosciutto_arugula.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZsuNIURSPyVZbZUG5j5Tuawx8GFqaIzViOsyzuAZa1-I20ubRQVzwgE&s=10",
     "price": 13.99,
     "description": "Elegant pizza with thin slices of prosciutto, fresh arugula, and shaved parmesan cheese.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, prosciutto, arugula, parmesan cheese",
@@ -242,7 +242,7 @@
   {
     "id": 25,
     "name": "Eggplant Parmesan",
-    "img": "eggplant_parmesan.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEhOQOWhPhR26Sv_tAOuX2rGvnN1XDLwu_CB3ISeefHvro4c4dbV1tTug&s=10",
     "price": 12.99,
     "description": "Italian classic turned into pizza! Featuring breaded eggplant slices, marinara sauce, and mozzarella cheese.",
     "list_of_ingredients": "Marinara sauce, mozzarella cheese, breaded eggplant slices",
@@ -252,7 +252,7 @@
   {
     "id": 26,
     "name": "Margherita Bufala",
-    "img": "margherita_bufala.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZjeeJs6yLny88w2ZkUvfflMSCLNjpwSGw9_GjdazByex_CmBEn9bZ8w&s=10",
     "price": 14.99,
     "description": "Upscale version of the classic Margherita with buffalo mozzarella and fresh basil.",
     "list_of_ingredients": "Tomato sauce, buffalo mozzarella cheese, basil",
@@ -262,7 +262,7 @@
   {
     "id": 27,
     "name": "Chicken Pesto",
-    "img": "chicken_pesto.jpg",
+    "img": "https://www.jessicagavin.com/wp-content/uploads/2022/02/chicken-pesto-pizza-16-1200.jpg",
     "price": 12.99,
     "description": "Delicious pizza with basil pesto base, grilled chicken, roasted red peppers, and goat cheese.",
     "list_of_ingredients": "Basil pesto base, mozzarella cheese, grilled chicken, roasted red peppers, goat cheese",
@@ -272,7 +272,7 @@
   {
     "id": 28,
     "name": "Margherita D.O.P.",
-    "img": "margherita_dop.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_xVECQeHqFlpeoTddUjB2b5S3LBzlp5mO0ZUeM8Op-p4-WatYQaYhsQ&s=10",
     "price": 15.99,
     "description": "Authentic Neapolitan pizza with San Marzano tomatoes, buffalo mozzarella, and fresh basil.",
     "list_of_ingredients": "San Marzano tomatoes, buffalo mozzarella cheese, basil",
@@ -282,7 +282,7 @@
   {
     "id": 29,
     "name": "Taco Pizza",
-    "img": "taco_pizza.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-aFifxkdzSMCek_G8kHmC351KEjL-M-pPxg7A_PBUsdUHdHfphkWfrtGZ&s=10",
     "price": 13.99,
     "description": "A fusion of Mexican and Italian cuisine! Topped with seasoned ground beef, cheddar cheese, lettuce, tomatoes, and sour cream.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, seasoned ground beef, cheddar cheese, lettuce, tomatoes, sour cream",
@@ -292,7 +292,7 @@
   {
     "id": 30,
     "name": "Chicken Bacon Ranch",
-    "img": "chicken_bacon_ranch.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBhWyo-AKGPySXF7Oy1aMpkQUJCAMBNSSfPnLyQLnyJktL1vSFJX2oNAc&s=10",
     "price": 12.99,
     "description": "Ranch lovers' dream! Topped with grilled chicken, crispy bacon, ranch dressing, and red onions.",
     "list_of_ingredients": "Ranch dressing, mozzarella cheese, grilled chicken, bacon, red onions",
@@ -302,7 +302,7 @@
   {
     "id": 31,
     "name": "Meatball",
-    "img": "meatball.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyJXwKPFcEgb6aIbA-yuc8t7RNqUrynfXOd9dUTItm9g&s=10",
     "price": 11.99,
     "description": "Satisfying pizza topped with homemade meatballs, marinara sauce, and mozzarella cheese.",
     "list_of_ingredients": "Marinara sauce, mozzarella cheese, homemade meatballs",
@@ -312,7 +312,7 @@
   {
     "id": 32,
     "name": "Greek",
-    "img": "greek.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGnDGa0SzSf67Kcb_qJ7Kxa8pYJAF-TK9QqMTryvQmMzN_jvzhL4eAqw&s=10",
     "price": 11.99,
     "description": "Mediterranean-inspired pizza with kalamata olives, feta cheese, red onions, tomatoes, and oregano.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, kalamata olives, feta cheese, red onions, tomatoes, oregano",
@@ -322,7 +322,7 @@
   {
     "id": 33,
     "name": "Pulled Pork",
-    "img": "pulled_pork.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczgNil_RBYUe-9ycV4KVmeCtpsMh7y5E91sS4EAAZWHudjoc-twFvsEmb&s=10",
     "price": 12.99,
     "description": "Southern-style pizza with barbecue pulled pork, caramelized onions, and cheddar cheese.",
     "list_of_ingredients": "Barbecue sauce, mozzarella cheese, pulled pork, caramelized onions, cheddar cheese",
@@ -332,7 +332,7 @@
   {
     "id": 34,
     "name": "Margherita Diavola",
-    "img": "margherita_diavola.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjN8uUjoe0od0MjosE7b_undZQVU2fCizrKP9QeEVufgurRygp-6b1YE7E&s=10",
     "price": 13.99,
     "description": "Spicy version of the classic Margherita with spicy salami and chili flakes.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, spicy salami, chili flakes, basil",
@@ -342,7 +342,7 @@
   {
     "id": 35,
     "name": "Chicken Tikka Masala",
-    "img": "chicken_tikka_masala.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPJqoBvZssrvD3AurAzzMHaNwRf9tTdyMkNtq-zqoHODozBZyun679CU&s=10",
     "price": 13.99,
     "description": "Indian-inspired pizza with tikka masala sauce, grilled chicken, red onions, and cilantro.",
     "list_of_ingredients": "Tikka masala sauce, mozzarella cheese, grilled chicken, red onions, cilantro",
@@ -352,7 +352,7 @@
   {
     "id": 36,
     "name": "Shrimp Scampi",
-    "img": "shrimp_scampi.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0GIxEqXYzMqB-LB_uWCbOg8lzr1NOjOhJL6mEn8L5UACdQiwNgC76JVwd&s=10",
     "price": 14.99,
     "description": "Delicious pizza with garlic butter sauce, shrimp, cherry tomatoes, and parsley.",
     "list_of_ingredients": "Garlic butter sauce, mozzarella cheese, shrimp, cherry tomatoes, parsley",
@@ -362,7 +362,7 @@
   {
     "id": 37,
     "name": "Eggplant and Ricotta",
-    "img": "eggplant_ricotta.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbpnXDyuUAkp4uQcOtE_7x2gWCH5XaPvH_F5vz5-jqKozoRVfKpx6Vyxo&s=10",
     "price": 12.99,
     "description": "Vegetarian delight! Topped with roasted eggplant, ricotta cheese, cherry tomatoes, and basil.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, roasted eggplant, ricotta cheese, cherry tomatoes, basil",
@@ -372,7 +372,7 @@
   {
     "id": 38,
     "name": "Pulled Pork Mac and Cheese",
-    "img": "pulled_pork_mac_and_cheese.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGsP8ERzJ0nHIos51qj47Y-9BJRFmRe7UlJ4OzqWhGz1rJrx5xPwxZTs&s=10",
     "price": 14.99,
     "description": "Indulgent pizza featuring macaroni and cheese, barbecue pulled pork, and crispy bacon.",
     "list_of_ingredients": "Macaroni and cheese, mozzarella cheese, pulled pork, bacon",
@@ -382,7 +382,7 @@
   {
     "id": 39,
     "name": "Chicken Fajita",
-    "img": "chicken_fajita.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOobVkMSQzE3UFAKLRyRg0dXYKa_zWplqiODQR64ISMw&s=10",
     "price": 13.99,
     "description": "Southwestern-style pizza with grilled chicken, bell peppers, onions, and cheddar cheese.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, grilled chicken, bell peppers, onions, cheddar cheese",
@@ -392,7 +392,7 @@
   {
     "id": 40,
     "name": "Margherita Pesto",
-    "img": "margherita_pesto.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Bzh9LtAAzBQZf3MtODIhafURBFpZVjs53YCBwcy53No7qbRRUoIRqZQ&s=10",
     "price": 12.99,
     "description": "Refreshing twist on the classic Margherita with basil pesto, cherry tomatoes, and fresh mozzarella.",
     "list_of_ingredients": "Basil pesto, mozzarella cheese, cherry tomatoes, basil",
@@ -402,7 +402,7 @@
   {
     "id": 41,
     "name": "Buffalo Cauliflower",
-    "img": "buffalo_cauliflower.jpg",
+    "img": "https://www.crowdedkitchen.com/wp-content/uploads/2020/08/buffalo-cauliflower-pizza.jpg",
     "price": 12.99,
     "description": "Vegetarian delight! Spicy buffalo cauliflower, blue cheese, and red onions atop a crispy crust.",
     "list_of_ingredients": "Buffalo cauliflower, mozzarella cheese, blue cheese, red onions",
@@ -412,7 +412,7 @@
   {
     "id": 42,
     "name": "Bacon Cheeseburger",
-    "img": "bacon_cheeseburger.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNlvBiLPK_ocJWtU9QaqUry-tabdls5E0Yon1ohimXdZnSTPQdM-h9reg&s=10",
     "price": 12.99,
     "description": "All the flavors of a cheeseburger on a pizza! Topped with ground beef, bacon, cheddar cheese, and pickles.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, ground beef, bacon, cheddar cheese, pickles",
@@ -422,7 +422,7 @@
   {
     "id": 43,
     "name": "Pesto Chicken",
-    "img": "pesto_chicken.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-boJAJIXoZDl5sbFfGth6JCZqiPDc61zrtXyKouDaAqYvAeC-Qr91wJxq&s=10",
     "price": 12.99,
     "description": "Fresh and flavorful pizza with basil pesto, grilled chicken, sun-dried tomatoes, and goat cheese.",
     "list_of_ingredients": "Basil pesto, mozzarella cheese, grilled chicken, sun-dried tomatoes, goat cheese",
@@ -432,7 +432,7 @@
   {
     "id": 44,
     "name": "Balsamic Glazed Steak",
-    "img": "balsamic_steak.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMmB_C0uNdebcffBcMfeS2u62yFFo8e8ZTWlFg13GIwn1Ny6PJs0mA54&s=10",
     "price": 15.99,
     "description": "Elegant pizza with balsamic glazed steak, caramelized onions, blue cheese, and arugula.",
     "list_of_ingredients": "Balsamic glazed steak, mozzarella cheese, caramelized onions, blue cheese, arugula",
@@ -442,7 +442,7 @@
   {
     "id": 45,
     "name": "Buffalo Chicken Ranch",
-    "img": "buffalo_chicken_ranch.jpg",
+    "img": "https://i0.wp.com/aperfectfeast.com/wp-content/uploads/2022/10/IMG-8989-scaled.jpg?fit=1920%2C2560&ssl=1",
     "price": 13.99,
     "description": "Perfect blend of spicy buffalo chicken, ranch dressing, red onions, and cilantro.",
     "list_of_ingredients": "Buffalo sauce, mozzarella cheese, grilled chicken, ranch dressing, red onions, cilantro",
@@ -452,7 +452,7 @@
   {
     "id": 46,
     "name": "Pulled Pork Barbecue",
-    "img": "pulled_pork_barbecue.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaiTz1cxSwgvburz7XR5DoWoMzC33f43tGAouOqcX3Lf9KIuoPoyJIsL0&s=10",
     "price": 13.99,
     "description": "Southern-style pizza with barbecue pulled pork, red onions, jalapeños, and cilantro.",
     "list_of_ingredients": "Barbecue sauce, mozzarella cheese, pulled pork, red onions, jalapeños, cilantro",
@@ -462,7 +462,7 @@
   {
     "id": 47,
     "name": "Shrimp and Spinach Alfredo",
-    "img": "shrimp_spinach_alfredo.jpg",
+    "img": "file:///home/valhallacode/Downloads/image.webp",
     "price": 14.99,
     "description": "Decadent pizza with creamy Alfredo sauce, shrimp, spinach, and parmesan cheese.",
     "list_of_ingredients": "Alfredo sauce, mozzarella cheese, shrimp, spinach, parmesan cheese",
@@ -472,7 +472,7 @@
   {
     "id": 48,
     "name": "Chicken Caesar",
-    "img": "chicken_caesar.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1qpDeFlniGvpZm6ZGVT-siJuzRCuUP5XQonThqLGC31RTjYPSnXSNUqj&s=10",
     "price": 12.99,
     "description": "Classic Caesar salad flavors on a pizza! Topped with grilled chicken, romaine lettuce, parmesan cheese, and Caesar dressing.",
     "list_of_ingredients": "Caesar dressing, mozzarella cheese, grilled chicken, romaine lettuce, parmesan cheese",
@@ -482,7 +482,7 @@
   {
     "id": 49,
     "name": "Margherita Burrata",
-    "img": "margherita_burrata.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqMDnPSPHQREzHKnfvepvojq_0Wt1wR5oBaJ9eZqTZ3RWRL_w6phulx8&s=10",
     "price": 14.99,
     "description": "Indulgent pizza with creamy burrata cheese, cherry tomatoes, and fresh basil.",
     "list_of_ingredients": "Tomato sauce, burrata cheese, cherry tomatoes, basil",
@@ -492,7 +492,7 @@
   {
     "id": 50,
     "name": "Mediterranean",
-    "img": "mediterranean.jpg",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq65qwcUJxaLqV5Val-7yawfuEcNiVBC8Xn1FTlzTbFw&s=10",
     "price": 13.99,
     "description": "Fresh and flavorful pizza with Mediterranean flavors like kalamata olives, artichoke hearts, red onions, and feta cheese.",
     "list_of_ingredients": "Tomato sauce, mozzarella cheese, kalamata olives, artichoke hearts, red onions, feta cheese",
