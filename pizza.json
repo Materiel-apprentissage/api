@@ -462,7 +462,7 @@
   {
     "id": 47,
     "name": "Shrimp and Spinach Alfredo",
-    "img": "file:///home/valhallacode/Downloads/image.webp",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b2keLQjDR5xEcvjKE0d4ktTpjN8uB_cvlLoo_m9WCwfTsLHlEudI8z2p&s=10",
     "price": 14.99,
     "description": "Decadent pizza with creamy Alfredo sauce, shrimp, spinach, and parmesan cheese.",
     "list_of_ingredients": "Alfredo sauce, mozzarella cheese, shrimp, spinach, parmesan cheese",
